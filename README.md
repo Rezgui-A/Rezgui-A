@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adam Rezgui</h1>
-<h3 align="center">Full Stack Developer | Frontend & Backend | Web Developer | JavaScript</h3>
+<h3 align="center">Full Stack Developer | Frontend & Backend | Web Developer | GEN AI</h3>
 
 <br>
 
 <p align="right">
-  <h3>Profile Views :-</h3> 
-  <img src="https://komarev.com/ghpvc/?username=adamrezgui&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adamrezgui" />
+  <h3>Profile Views : </h3> <img src="https://komarev.com/ghpvc/?username=adamrezgui&label=Profile%20views&color=0e75b6&style=flat" alt="adamrezgui" />
 </p>
 
 <br>
