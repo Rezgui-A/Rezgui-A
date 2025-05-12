@@ -42,15 +42,15 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamrezgui&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adamrezgui"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezgui-A&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adamrezgui"/></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adamrezgui&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="adamrezgui"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rezgui-A&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="adamrezgui"/></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamrezgui&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adamrezgui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rezgui-A&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adamrezgui" /></p>
 
 
 [adamrezgui](https://github.com/Rezgui-A/)
