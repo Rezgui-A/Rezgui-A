@@ -1,8 +1,75 @@
-<h1 align="center">Hi 👋, I'm Adam Rezgui</h1> <h3 align="center">Full Stack Developer | ⚛️ React | Node.js | React Native | ☁️ AWS</h3>:contentReference[oaicite:4]{index=4} <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rezgui-A&label=Profile%20views&color=0e75b6&style=flat" alt="Rezgui-A" /> </p> <p align="center"> <img src="https://github.com/Rezgui-A/Rezgui-A/blob/main/animation.gif" alt="Adam Rezgui" /> </p>
-🌱 I’m currently enhancing my skills in Full Stack Development and exploring new technologies.
+<h1 align="center">Hi 👋, I'm Adam Rezgui</h1>
+<h3 align="center">Full Stack Developer | Frontend & Backend | Web Developer | JavaScript</h3>
 
-📫 How to reach me: [Your Email Address]
+<br>
 
-⚡ Fun fact: I enjoy building efficient and scalable applications that make a difference.
+<p align="right">
+  <h3>Profile Views :-</h3> 
+  <img src="https://komarev.com/ghpvc/?username=adamrezgui&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adamrezgui" />
+</p>
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/adam-rezgui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-rezgui" height="30" width="40" /></a> <a href="https://twitter.com/adam_rezgui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adam_rezgui" height="30" width="40" /></a> <a href="https://instagram.com/adam.rezgui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adam.rezgui" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a> </p> <h3>📊 GitHub Stats:</h3> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezgui-A&show_icons=true&locale=en&layout=compact" alt="Rezgui-A" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rezgui-A&show_icons=true&locale=en" alt="Rezgui-A" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rezgui-A&" alt="Rezgui-A" /></p>
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adamrezgui" /></p>
+
+- 🌱 I’m currently building modern, scalable full stack applications using JavaScript frameworks  
+- 📫 How to reach me **adamrezgui.dev@gmail.com**  
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adamrezgui/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam rezgui" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/adamrezgui" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adam rezgui" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/adamrezgui" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adamrezgui" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/adamrezgui" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adamrezgui" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/adamrezgui" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adamrezgui" height="30" width="40" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
+</p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamrezgui&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adamrezgui"/></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adamrezgui&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="adamrezgui"/></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamrezgui&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adamrezgui" /></p>
+
+<p align="left"> <a href="https://twitter.com/adamrezgui" target="blank"><img src="https://img.shields.io/twitter/follow/adamrezgui?logo=twitter&style=for-the-badge" alt="adamrezgui" /></a> </p>
+
+[adamrezgui](https://github.com/Rezgui-A/)
