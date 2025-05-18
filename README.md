@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Rezgui</h1>
-<h3 align="center">Full Stack Developer | Frontend & Backend | Web Developer | GEN AI</h3>
+<h3 align="center">Full Stack Developer | Frontend & Backend | Web Developer | GEN AI | Automation Expert</h3>
 
 <br>
 
